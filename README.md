@@ -22,6 +22,3 @@ to save VE requirements to a file:
 to read a requirements list:  
 ```pip install -r requirements.txt```  
 
-to install icecream after entering VE:  
-```pip install icecream```  
-  

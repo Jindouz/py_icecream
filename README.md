@@ -19,6 +19,6 @@ or
 to save VE requirements to a file:  
 ```pip freeze > requirements.txt```  
 
-to read a requirements list:  
+to install a requirements list:  
 ```pip install -r requirements.txt```  
 
